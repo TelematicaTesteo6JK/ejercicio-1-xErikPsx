@@ -2,7 +2,7 @@
 
 ACTIVIDAD INDIVIDUAL
 
-En este repositorio de prueba se encuentra el programa 1pagoestacionamiento.cpp, que contiene la función pago_estacionamiento. La actividad consiste en agregar los casos de prueba al archivo .cpp, de manera que se imprima la tabla de reporte de pruebas según las técnicas de partición de equivalencia y análisis de valores límite. A continuación te indico cómo hacerlo:
+En este repositorio de prueba se encuentra el programa pago_estacionamiento.cpp, que contiene la función pago_estacionamiento. La actividad consiste en agregar los casos de prueba al archivo .cpp, de manera que se imprima la tabla de reporte de pruebas según las técnicas de partición de equivalencia y análisis de valores límite. A continuación te indico cómo hacerlo:
 
 HAZ UNA COPIA LOCAL DEL REPOSITORIO
 
