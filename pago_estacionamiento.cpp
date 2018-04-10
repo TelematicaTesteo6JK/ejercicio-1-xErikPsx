@@ -24,6 +24,12 @@ void casos_de_prueba(){
 
     cout << "TEST CASES" << endl;
     // Agrega tus casos de prueba
+    <<cout << "Test Data" <<"Expected Result" << "Actuak Result" << "Pass/Fail" << endl;
+    <<cout << "-1" << "ERROR" << pago_estacionamiento(-1) << endl;
+    <<cout << "0" << "0" << pago_estacionamiento(0) << endl;
+    <<cout << "2" << "20" << pago_estacionamiento(2) << endl;
+    <<cout << "6" << "54" << pago_estacionamiento(6) << endl;
+    <<cout << "11" << "77" << pago_estacionamiento(11) << endl;
 
 
 
